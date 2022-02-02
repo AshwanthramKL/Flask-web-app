@@ -1,6 +1,6 @@
 # Flask-Web-app
 
-Created a simple Notes Web app using Python's Flask framework by following this [Youtube tutorial](https://youtu.be/dam0GPOAvVI).
+Created a simple Notes Web app using Python's Flask framework by following this [Youtube tutorial](https://youtu.be/dam0GPOAvVI).  
 View [here](https://ashwanthramkl.github.io/Flask-web-app/).
 Step-wise procedure :  
 *   Creating a Flask App.
